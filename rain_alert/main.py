@@ -8,7 +8,6 @@ LATTITUDE = 42.443962
 LONGITUDE = -76.501884
 URL = 'https://api.openweathermap.org/data/2.5/forecast'
 
-#1ZZQJQNYXPEKV4QGX9YUHT2S
 # Find your Account SID and Auth Token at twilio.com/console
 # and set the environment variables. See http://twil.io/secure
 account_sid = os.environ['TWILIO_ACCOUNT_SID']
